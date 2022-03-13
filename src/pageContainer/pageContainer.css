@@ -1,0 +1,13 @@
+.page-frame{
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+
+
+}
+.page-container{
+    width: 80vw;
+    height: 100vh;
+}
